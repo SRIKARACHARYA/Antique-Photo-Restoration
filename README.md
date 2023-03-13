@@ -1,12 +1,9 @@
-# Old Photo Restoration (Official PyTorch Implementation)
+# Antique Photo Restoration
 
 <img src='imgs/0001.jpg'/>
 
 ### [Project Page](http://raywzy.com/Old_Photo/) | [Paper (CVPR version)](https://arxiv.org/abs/2004.09484) | [Paper (Journal version)](https://arxiv.org/pdf/2009.07047v1.pdf) | [Pretrained Model](https://hkustconnect-my.sharepoint.com/:f:/g/personal/bzhangai_connect_ust_hk/Em0KnYOeSSxFtp4g_dhWdf0BdeT3tY12jIYJ6qvSf300cA?e=nXkJH2) | [Colab Demo](https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA?usp=sharing)  | [Replicate Demo & Docker Image](https://replicate.ai/zhangmozhe/bringing-old-photos-back-to-life) :fire:
 
-**Bringing Old Photos Back to Life, CVPR2020 (Oral)**
-
-**Old Photo Restoration via Deep Latent Space Translation, TPAMI 2022**
 
 [Ziyu Wan](http://raywzy.com/)<sup>1</sup>,
 [Bo Zhang](https://www.microsoft.com/en-us/research/people/zhanbo/)<sup>2</sup>,
